@@ -5,3 +5,7 @@ https://www.kaggle.com/api/v1/datasets/download/lakshmi25npathi/imdb-dataset-of-
 and move it to folder dataset_imdb/YOUR_FILE.csv in one level with Notebook
 and start with cell:
 ```imdb_data = pd.read_csv("dataset_imdb/IMDB Dataset.csv")``` (not forget to run first cell with dependencies!)
+
+
+dependencies:
+pandas>=2.0
